@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Mikhail</h1>
+<h3 align="center">iOS Developer</h3>
 
 <!--
 **jubilant48/jubilant48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Billiant and Flipper projects
+- 🌱 I’m currently learning Swift, RxSwift
+- 📫 How to reach me <a href="mailto:korncl48@gmail.com">korncl48@gmail.com</a></p>
+
