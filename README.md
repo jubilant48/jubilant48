@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Mikhail</h1><br>
-<h3 align="center">iOS Developer</h3>
+<h1 align="center">Hi there, I'm Mikhail</h1>
+<h4 align="center">iOS Developer</h4>
 
 <!--
 **jubilant48/jubilant48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
