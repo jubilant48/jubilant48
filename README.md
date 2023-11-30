@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Billiant and Flipper projects
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me <a href="mailto:korncl48@gmail.com">korncl48@gmail.com</a></p>
 
